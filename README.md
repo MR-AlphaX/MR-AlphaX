@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MR-AlphaX
+- 👋 Hi, I’m @MR-SudoMan
 - 👀 I’m interested in super security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
