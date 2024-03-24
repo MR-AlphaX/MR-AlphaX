@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MR-SudoMan
-- 👀 I’m interested in super security
+- 👀 I’m interested in cyber security
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
